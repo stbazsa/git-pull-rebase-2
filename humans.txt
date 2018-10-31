@@ -4,6 +4,7 @@
 # this is a mac demo..2
 # SSH Communication based on password, Bazsa
 # TEAM
+    BazsaGym team - software development
 # BazsaGym @bazsagym
 #some change ---now
 # diff change test
